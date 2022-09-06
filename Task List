@@ -1,0 +1,5 @@
+First I need to connect a mic to an arduino.
+I need to code the arduino to understand english.
+I need to code the arduino to send a signal to another board which tells it to turn off or on a certain light.
+I need to make the power board realise which light the arduino is talking about.
+I need to make the power board directly power the board.

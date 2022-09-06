@@ -1,0 +1,3 @@
+First, it will  have a word you say which wakes it.
+Second, it needs to listen for a on or off command for the lights, and which light you're talking about
+The third step would be to sedn a signal to the board controlling which lights are getting power, and either giving power, or taking all power away and turning the light off.
