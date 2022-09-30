@@ -1,3 +1,3 @@
 I will need to learn how to make a board understand what a human is saying outloud.
 I will need to learn how to work with Arduinos
-I will need to learn a lot about coding to make it send the correct signal every time.
+I will need to learn a lot about coding to make it send the correct signal 99% of the time.

@@ -50,6 +50,9 @@
 
 """Write the main body of your program here"""
 
+from unicodedata import east_asian_width
+
+
 print("Hello World")
 input1=int(input("What do you want your number to be? "))
 input2=int(input("What do you want the cutoff to be? "))
@@ -64,3 +67,9 @@ for i in range(17):
     if(x+5<=100):
         print(x," ",x+1," ",x+2," ",x+3," ",x+4," ",x+5)
     x=x+6
+name="Keith"
+jimmy=7
+eat=4
+world=5
+print(jimmy,eat,world)
+print("Hello my name is", name)
